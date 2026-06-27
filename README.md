@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
