@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0001-two-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0507-perfect-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
