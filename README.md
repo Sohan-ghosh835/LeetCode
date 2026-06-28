@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Math
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
