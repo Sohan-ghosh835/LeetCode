@@ -6,10 +6,7 @@ class Solution(object):
                 ss += ch
         ss = ss.lower()
         sss = ss[::-1]
-        if ss == sss:
-            return True
-        else:
-            return False
+        return ss == sss
         """
         :type s: str
         :rtype: bool
