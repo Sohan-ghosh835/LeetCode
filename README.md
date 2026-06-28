@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0414-third-maximum-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
