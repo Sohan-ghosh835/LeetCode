@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
 | ------- |
