@@ -12,11 +12,7 @@ class Solution(object):
                 a[1] -= 1
             else:
                 continue
-        if a == [0,0]:
-            return True
-        else:
-            return False
-        
+        return a == [0,0]
         """
         :type moves: str
         :rtype: bool
