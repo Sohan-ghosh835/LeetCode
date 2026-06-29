@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
