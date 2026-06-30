@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
