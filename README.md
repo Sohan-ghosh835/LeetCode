@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0414-third-maximum-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0414-third-maximum-number) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Interactive
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0657-robot-return-to-origin) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
