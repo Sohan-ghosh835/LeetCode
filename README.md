@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Interactive
 |  |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
