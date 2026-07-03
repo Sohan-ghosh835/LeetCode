@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3136-valid-word](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3136-valid-word) |
 ## Two Pointers
 |  |
 | ------- |
