@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3866-first-unique-even-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3866-first-unique-even-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3866-first-unique-even-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
