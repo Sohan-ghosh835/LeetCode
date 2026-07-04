@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0509-fibonacci-number) |
 ## Array
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -211,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
