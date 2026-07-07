@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0260-single-number-iii) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0445-add-two-numbers-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
