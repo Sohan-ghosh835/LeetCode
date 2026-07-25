@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
