@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
