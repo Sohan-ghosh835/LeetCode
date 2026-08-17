@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
 | ------- |
