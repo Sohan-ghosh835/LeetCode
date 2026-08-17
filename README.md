@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3136-valid-word](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3136-valid-word) |
+| [3174-clear-digits](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [3174-clear-digits](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3174-clear-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [3174-clear-digits](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
