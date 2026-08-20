@@ -3,8 +3,7 @@ class Solution(object):
         l = len(nums)
         arr1 = [nums[0]]
         arr2 = [nums[1]]
-        i = 2
-        while i < l:
+        for i in range(2, l):
             if arr1[-1] > arr2[-1]:
                 arr1.append(nums[i])
             else:
