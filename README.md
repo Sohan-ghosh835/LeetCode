@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3866-first-unique-even-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3174-clear-digits) |
 ## Enumeration
 |  |
