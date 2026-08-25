@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3866-first-unique-even-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3866-first-unique-even-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Interactive
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
 ## String Matching
 |  |
 | ------- |
@@ -242,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0134-gas-station) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
