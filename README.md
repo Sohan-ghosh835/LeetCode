@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
