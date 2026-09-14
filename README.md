@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sohan-ghosh835/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
