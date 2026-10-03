@@ -1,14 +1,15 @@
 class Solution(object):
     def moveZeroes(self, nums):
+        s = []
         c = 0
-        arr = []
-        for n in nums:
-            if n == 0:
-                c+=1
+        for ch in nums:
+            if ch == 0:
+                c += 1
             else:
-                arr.append(n)
-        arr.extend([0] * c)
-        nums[:] = arr
+                s.append(ch)
+        for i in range(c):
+            s.append(0)
+        nums[:] = s
 
         """
         :type nums: List[int]
