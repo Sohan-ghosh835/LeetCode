@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Sohan-ghosh835/LeetCode/tree/master/1331-rank-transform-of-an-array) |
